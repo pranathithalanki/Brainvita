@@ -10,6 +10,7 @@ O O O 0 O O O
 O O O O O O O 
 . . O O O . . 
 . . O O O . . 
+(if its not visible, you can look into the picture attached :) )
 Rules of the Game:
 1. The '.' means there is no marble there or cannot move a marble there
 2. The 'O' means that a marble is present there
