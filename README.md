@@ -2,15 +2,6 @@
 The classic Peg Solitaire game
 
 Running this code, you will be able to play the Brainvita game on your terminal window
-It will look like this
-. . O O O . . 
-. . O O O . . 
-O O O O O O O 
-O O O 0 O O O 
-O O O O O O O 
-. . O O O . . 
-. . O O O . . 
-(See it in the code view to see the format properly )
 Rules of the Game:
 1. The '.' means there is no marble there or cannot move a marble there
 2. The 'O' means that a marble is present there
